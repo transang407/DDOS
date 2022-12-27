@@ -1,9 +1,7 @@
-### Table of contents
-
-* [EAS Phish](https://github.com/pembriahmad/EAS-Phish)
-* [Get Linux](https://github.com/pembriahmad/Get-Linux)
-* [DDOS Attack](https://github.com/pembriahmad/DDOS)
-* [Bash Crypt](https://github.com/pembriahmad/Bash-Crypt)
+### Link 
+* [Facebook](https://www.facebook.com/sadnocau?mibextid=ZbWKwL)
+* [Instagram](https://instagram.com/transangca)
+* [DDos](https://github.com/transang407/DDOS)
 
 # Công cụ tấn công DDOS
 
