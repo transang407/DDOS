@@ -5,23 +5,22 @@
 * [DDOS Attack](https://github.com/pembriahmad/DDOS)
 * [Bash Crypt](https://github.com/pembriahmad/Bash-Crypt)
 
-# DDOS-Attack Tools
+# Công cụ tấn công DDOS
 
-A simple device to attack a website or server, for a complete understanding of ddos that you can click the link below
-https://en.m.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
+Một thiết bị đơn giản để tấn công một trang web hoặc máy chủ, để hiểu đầy đủ về ddos, bạn có thể nhấp vào liên kết bên dưới https://en.m.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
 
-# How to Install
+# Cài đặt thế nào
 * ```pkg install python```
 * ```pkg install python2```
 * ```pkg install git```
-* ```git clone https://github.com/pembriahmad/DDOS```
+* ```git clone https://github.com/transang407/DDOS```
 * ```cd DDOS```
 
-Type command ```python2 ddos.py``` To run the script
+Nhập lệnNhập ```python2 ddos.py``` Để Chạy Ddos
 
 # Sources
- * Github https://github.com/pembriahmad
- * Gitlab Project https://gitlab.com/pembriahmad/resources
+ * Github https://github.com/transang407
+ * Gitlab Project https://gitlab.com/transang407/resources
 
 
 # Screenshot
