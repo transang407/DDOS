@@ -16,9 +16,9 @@ Một thiết bị đơn giản để tấn công một trang web hoặc máy ch
 * ```git clone https://github.com/transang407/DDOS```
 * ```cd DDOS```
 
-Nhập lệnNhập ```python2 ddos.py``` Để Chạy Ddos
+Nhập Lệnh ```python2 ddos.py``` Để Chạy Ddos
 
-# Sources
+# Nguồn
  * Github https://github.com/transang407
  * Gitlab Project https://gitlab.com/transang407/resources
 
